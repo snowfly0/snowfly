@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UtilityLib\Network\Utility\TcpNetClient.cs">
+    <Files>
+      <File FileName="Assets\GameScripts\MainManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameScripts\Scan\PictureScanner.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameScripts\Scan\TessertPluginUtility.cs" Line="39" Column="14" />
+      <File FileName="Assets\UtilityLib\Network\Utility\TcpNetClient.cs" Line="124" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\SVNProjects\MuMaZhiHui\PC\MuMaZhiHui\Assets\UtilityLib\Network\Utility\TcpNetClient.cs" line="120" />
+      <Breakpoint file="D:\SVNProjects\MuMaZhiHui\PC\MuMaZhiHui\Assets\UtilityLib\Network\Utility\TcpNetClient.cs" line="123" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

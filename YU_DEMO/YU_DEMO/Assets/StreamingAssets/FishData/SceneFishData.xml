@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<Root>
+  <Item Id="0" TypeId="1001" MoveSpeed="30" RotateSpeed="60" StartGroupId="8" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="1" TypeId="1002" MoveSpeed="30" RotateSpeed="60" StartGroupId="10" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="2" TypeId="1003" MoveSpeed="30" RotateSpeed="60" StartGroupId="9" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="3" TypeId="1004" MoveSpeed="30" RotateSpeed="60" StartGroupId="7" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="4" TypeId="1005" MoveSpeed="30" RotateSpeed="60" StartGroupId="5" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="5" TypeId="1006" MoveSpeed="30" RotateSpeed="60" StartGroupId="5" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="6" TypeId="1007" MoveSpeed="30" RotateSpeed="60" StartGroupId="5" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="7" TypeId="1008" MoveSpeed="30" RotateSpeed="60" StartGroupId="5" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="8" TypeId="1009" MoveSpeed="30" RotateSpeed="60" StartGroupId="5" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+  <Item Id="9" TypeId="1010" MoveSpeed="30" RotateSpeed="60" StartGroupId="5" MinTankGroup="1" MaxTankGroup="10" BirthZoneName="BirthPointDiver" Enable="1" />
+
+
+
+</Root>

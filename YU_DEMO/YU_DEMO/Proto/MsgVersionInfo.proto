@@ -1,0 +1,4 @@
+message MsgVersionInfo {
+optional string VersionNum=1;
+required int32 DeviceType=2;
+}

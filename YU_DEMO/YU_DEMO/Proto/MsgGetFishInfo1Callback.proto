@@ -1,0 +1,8 @@
+message MsgGetFishInfo1Callback {
+optional string QRCode=1;
+optional string HashCode=2;
+required int32 TypeId=3;
+optional bytes Picture=4;
+required int32 UserId=5;
+required int32 GrowValue=6;
+}

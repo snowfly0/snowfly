@@ -1,0 +1,3 @@
+message MsgGetFishInfo1 {
+optional string QRCode=1;
+}

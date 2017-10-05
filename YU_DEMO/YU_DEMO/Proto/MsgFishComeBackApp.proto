@@ -1,0 +1,3 @@
+message MsgFishComeBackApp {
+required int32 UserId=1;
+}

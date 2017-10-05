@@ -1,0 +1,5 @@
+message MsgUploadPictureCallback {
+required int32 Result=1;
+optional string QRCode=2;
+required int32 FishTypeId=3;
+}

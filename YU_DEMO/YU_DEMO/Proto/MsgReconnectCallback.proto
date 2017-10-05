@@ -1,0 +1,3 @@
+message MsgReconnectCallback {
+required int32 Result=1;
+}

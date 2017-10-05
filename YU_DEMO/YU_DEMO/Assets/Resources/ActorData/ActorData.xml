@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<Root>
+  <Item Id="1001" FishClassName="海豚" MaxCount="1" PrefabName="haitun" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="30" RoateSpeed="50" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1002" FishClassName="大白鲨" MaxCount="1" PrefabName="shayu" BirthZoneName="BirthPointShayuXiaoChou" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1003" FishClassName="虎鲸" MaxCount="1" PrefabName="hujing" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1004" FishClassName="双髻鲨" MaxCount="1" PrefabName="shuangjisha" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1005" FishClassName="海牛" MaxCount="1" PrefabName="hainiu" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1006" FishClassName="F_QJY_003" MaxCount="1" PrefabName="1006" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1007" FishClassName="F_QJY_001" MaxCount="1" PrefabName="1007" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1008" FishClassName="F_QJY_002" MaxCount="1" PrefabName="1008" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1009" FishClassName="F_QJY_005" MaxCount="1" PrefabName="1009" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="1010" FishClassName="F_QJY_006" MaxCount="1" PrefabName="1010" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+
+  <Item Id="2001" FishClassName="F_SBY_001" MaxCount="1" PrefabName="2001" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="2002" FishClassName="F_SBY_023" MaxCount="1" PrefabName="2002" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+  <Item Id="2003" FishClassName="F_SBY_024" MaxCount="1" PrefabName="2003" BirthZoneName="BirthPointDiver" CanMove="1" ViewFishDistanceLimit="11" MoveSpeed="15" RoateSpeed="30" StartGroupId="0" MinTankGroup="11" MaxTankGroup="46" MutiMatIndex="0" />
+
+
+
+</Root>

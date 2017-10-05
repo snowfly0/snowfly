@@ -1,0 +1,3 @@
+message MsgReconnect {
+optional string UserToken=1;
+}

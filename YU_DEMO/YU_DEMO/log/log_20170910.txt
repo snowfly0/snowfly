@@ -1,0 +1,6 @@
+2017-09-10 10:36:56,411:[INFO]FishPoolInitPrefabEnd
+
+
+2017-09-10 10:38:11,282:[INFO]FishPoolInitPrefabEnd
+
+

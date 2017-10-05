@@ -1,0 +1,4 @@
+message MsgLoginCallback {
+required int32 Result=1;
+optional string UserToken=2;
+}

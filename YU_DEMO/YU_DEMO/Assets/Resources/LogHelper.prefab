@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  - 114: {fileID: 11461100}
+  - 114: {fileID: 11404702}
+  - 114: {fileID: 11424826}
+  m_Layer: 0
+  m_Name: LogHelper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1cba41ac15441409ca0d3b4ff4060c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_kGUITextObj: {fileID: 100000, guid: 39f382191c6a76e49bb966af75173147, type: 2}
+--- !u!114 &11404702
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8faf2a48724d9d44d9829327dd6b2d18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OutputConfigs:
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b431
+    DelayTime: 13
+    OutpputFileName: e9959ce5a4b431
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b432
+    DelayTime: 23
+    OutpputFileName: e9959ce5a4b432
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b433
+    DelayTime: 19
+    OutpputFileName: e9959ce5a4b433
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b434
+    DelayTime: 31
+    OutpputFileName: e9959ce5a4b434
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b435
+    DelayTime: 9
+    OutpputFileName: e9959ce5a4b435
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b436
+    DelayTime: 9
+    OutpputFileName: e9959ce5a4b436
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b437
+    DelayTime: 22
+    OutpputFileName: e9959ce5a4b437
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b438
+    DelayTime: 15
+    OutpputFileName: e9959ce5a4b438
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+  - IsEnable: 1
+    ListenEventName: e9959ce5a4b43130
+    DelayTime: 8
+    OutpputFileName: e9959ce5a4b43130
+    TotalOutputFrames: 1200
+    PerOutputFrames: 300
+--- !u!114 &11424826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1bac824044b8ad4e8bcc4afe0ed4cb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11461100
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e92140cd1f06f948818180ae0ba3e83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentLogLevel: 63
+  CurrentLogExpand: 1
+  MaxFileSize: 10
+  IsEnbaleProfilerHelper: 0
+  IsEnableLogHelper: 0
+  IsLogInEditor: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: IsLogInEditor
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: IsEnableLogHelper
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: CurrentLogLevel
+      value: 63
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: CurrentLogExpand
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1

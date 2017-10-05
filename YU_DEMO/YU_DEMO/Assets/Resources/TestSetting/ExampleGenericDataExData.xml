@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<Root>
+  <New>
+    <Item SettingName="123456" Setting123="123" />
+    <Item SettingName="123456" Setting123="123" />
+  </New>
+  <New2>
+    <Item SettingName="123456" Setting123="123" />
+    <Item SettingName="123456" Setting123="100" />
+    <Item SettingName="123456" Setting123="100" />
+    <Item SettingName="123456" Setting123="123" />
+  </New2>
+</Root>

@@ -1,0 +1,5 @@
+message MsgUploadPicture {
+optional string QRCode=1;
+optional bytes Picture=2;
+optional string HashCode=3;
+}

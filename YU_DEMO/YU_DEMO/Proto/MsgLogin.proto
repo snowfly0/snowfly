@@ -1,0 +1,4 @@
+message MsgLogin {
+optional string UName=1;
+optional string UPwd=2;
+}

@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 6584edfbaa6a4cb498126972519764e1
+timeCreated: 1506404297
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_head012
+    100002: Bip013
+    100004: Bone051
+    100006: Bone052
+    100008: Bone053
+    100010: Bone054
+    100012: Bone054(mirrored)
+    100014: Bone055
+    100016: Bone055(mirrored)
+    100018: Bone056
+    100020: Bone056(mirrored)
+    100022: Bone057
+    100024: Bone057(mirrored)
+    100026: Bone058
+    100028: Bone058(mirrored)
+    100030: Box001
+    100032: //RootNode
+    400000: B_head012
+    400002: Bip013
+    400004: Bone051
+    400006: Bone052
+    400008: Bone053
+    400010: Bone054
+    400012: Bone054(mirrored)
+    400014: Bone055
+    400016: Bone055(mirrored)
+    400018: Bone056
+    400020: Bone056(mirrored)
+    400022: Bone057
+    400024: Bone057(mirrored)
+    400026: Bone058
+    400028: Bone058(mirrored)
+    400030: Box001
+    400032: //RootNode
+    4300000: Box001
+    7400000: youdong
+    7400002: taopao
+    9500000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: youdong
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip013
+        weight: 1
+      - path: Bip013/B_head012
+        weight: 1
+      - path: Bip013/B_head012/Bone054
+        weight: 1
+      - path: Bip013/B_head012/Bone054/Bone055
+        weight: 1
+      - path: Bip013/B_head012/Bone054/Bone055/Bone056
+        weight: 1
+      - path: Bip013/B_head012/Bone054/Bone055/Bone056/Bone057
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)/Bone055(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)/Bone055(mirrored)/Bone056(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)/Bone055(mirrored)/Bone056(mirrored)/Bone057(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone058
+        weight: 1
+      - path: Bip013/B_head012/Bone058(mirrored)
+        weight: 1
+      - path: Bip013/Bone051
+        weight: 1
+      - path: Bip013/Bone051/Bone052
+        weight: 1
+      - path: Bip013/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Box001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: taopao
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip013
+        weight: 1
+      - path: Bip013/B_head012
+        weight: 1
+      - path: Bip013/B_head012/Bone054
+        weight: 1
+      - path: Bip013/B_head012/Bone054/Bone055
+        weight: 1
+      - path: Bip013/B_head012/Bone054/Bone055/Bone056
+        weight: 1
+      - path: Bip013/B_head012/Bone054/Bone055/Bone056/Bone057
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)/Bone055(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)/Bone055(mirrored)/Bone056(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone054(mirrored)/Bone055(mirrored)/Bone056(mirrored)/Bone057(mirrored)
+        weight: 1
+      - path: Bip013/B_head012/Bone058
+        weight: 1
+      - path: Bip013/B_head012/Bone058(mirrored)
+        weight: 1
+      - path: Bip013/Bone051
+        weight: 1
+      - path: Bip013/Bone051/Bone052
+        weight: 1
+      - path: Bip013/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Box001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

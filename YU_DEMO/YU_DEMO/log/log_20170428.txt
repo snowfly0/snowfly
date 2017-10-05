@@ -1,0 +1,208 @@
+2017-04-28 14:33:36,166:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:33:37,314:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:33:37,446:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:33:42,146:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:33:42,152:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:33:42,182:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:33:55,033:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:33:55,124:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:33:55,161:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:33:55,232:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:33:55,238:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:33:55,264:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:34:04,202:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:34:04,293:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:34:04,330:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:34:04,401:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:34:04,407:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:34:04,433:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:34:34,859:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:34:34,950:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:34:34,986:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:34:35,057:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:34:35,062:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:34:35,088:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:35:15,670:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:35:15,763:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:35:15,799:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:35:15,868:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:35:15,874:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:35:15,900:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:37:59,471:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:37:59,563:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:37:59,599:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:37:59,670:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:37:59,676:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:37:59,703:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:39:11,546:[INFO]Create a actor,QrCode:P100234BC1CC29B6DCEC
+
+
+2017-04-28 14:39:25,718:[INFO]Create a actor,QrCode:P100118C2890450E6320
+
+
+2017-04-28 14:39:30,923:[INFO]Create a actor,QrCode:P100118C2890450E6320
+
+
+2017-04-28 14:39:36,955:[INFO]Create a actor,QrCode:P100234BC1CC29B6DCEC
+
+
+2017-04-28 14:40:32,374:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:40:32,465:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:40:32,532:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:40:32,603:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:40:32,609:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:40:32,635:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:40:49,058:[INFO]Create a actor,QrCode:P100234BC1CC29B6DCEC
+
+
+2017-04-28 14:41:17,400:[INFO]Create a actor,QrCode:P100234BC1CC29B6DCEC
+
+
+2017-04-28 14:42:30,733:[DEBUG]C:/Users/ccyua/AppData/LocalLow/YueShen/MuMa/Setting/LoginSetting.xml
+[Stack]:LoginController.Awake
+(): 
+
+2017-04-28 14:42:30,826:[INFO]FishPoolInitPrefabEnd
+
+
+2017-04-28 14:42:30,893:[DEBUG]BeginConnectServer:124.207.112.10:10020
+[Stack]:TcpNetClient.Connect
+(): 
+
+2017-04-28 14:42:30,963:[DEBUG]ConnectServer:124.207.112.10:10020,success
+[Stack]:<CrossThreadDebug>c__AnonStorey38.<>m__24
+(): 
+
+2017-04-28 14:42:30,969:[DEBUG]Connected to server
+[Stack]:NetClientManager.ClientConnected
+(): 
+
+2017-04-28 14:42:30,997:[DEBUG]添加了Log模块:NetMessageBase
+[Stack]:Logger.AddLogModule
+(): 
+
+2017-04-28 14:42:57,070:[INFO]Create a actor,QrCode:P100234BC1CC29B6DCEC
+
+
+2017-04-28 14:43:25,380:[INFO]Create a actor,QrCode:P100234BC1CC29B6DCEC
+
+

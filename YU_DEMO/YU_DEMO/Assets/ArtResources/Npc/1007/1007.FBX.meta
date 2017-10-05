@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: ecfb11d0f17da384d858bbe8989b5c21
+timeCreated: 1506398477
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_chibang_l
+    100002: B_chibang_r
+    100004: Bip01
+    100006: Bone001
+    100008: Bone002
+    100010: Bone003
+    100012: Bone004
+    100014: Bone008
+    100016: Bone009
+    100018: Bone025
+    100020: Bone026
+    100022: Bone027
+    100024: Bone028
+    100026: Bone029
+    100028: Bone029(mirrored)
+    100030: Bone030
+    100032: Bone030(mirrored)
+    100034: Bone031
+    100036: Bone031(mirrored)
+    100038: Bone032
+    100040: Bone032(mirrored)
+    100042: F_QJY_001
+    100044: //RootNode
+    400000: B_chibang_l
+    400002: B_chibang_r
+    400004: Bip01
+    400006: Bone001
+    400008: Bone002
+    400010: Bone003
+    400012: Bone004
+    400014: Bone008
+    400016: Bone009
+    400018: Bone025
+    400020: Bone026
+    400022: Bone027
+    400024: Bone028
+    400026: Bone029
+    400028: Bone029(mirrored)
+    400030: Bone030
+    400032: Bone030(mirrored)
+    400034: Bone031
+    400036: Bone031(mirrored)
+    400038: Bone032
+    400040: Bone032(mirrored)
+    400042: F_QJY_001
+    400044: //RootNode
+    4300000: F_QJY_001
+    7400000: youdong
+    7400002: taopao
+    9500000: //RootNode
+    13700000: F_QJY_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: youdong
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bone001
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_l
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_l/Bone025
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_l/Bone025/Bone027
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_r
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_r/Bone026
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_r/Bone026/Bone028
+        weight: 1
+      - path: Bip01/Bone001/Bone002
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029/Bone030
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029(mirrored)
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Bip01/Bone008
+        weight: 1
+      - path: Bip01/Bone008/Bone009
+        weight: 1
+      - path: Bip01/Bone008/Bone032
+        weight: 1
+      - path: Bip01/Bone008/Bone032(mirrored)
+        weight: 1
+      - path: F_QJY_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: taopao
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bone001
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_l
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_l/Bone025
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_l/Bone025/Bone027
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_r
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_r/Bone026
+        weight: 1
+      - path: Bip01/Bone001/B_chibang_r/Bone026/Bone028
+        weight: 1
+      - path: Bip01/Bone001/Bone002
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029/Bone030
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029(mirrored)
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029(mirrored)/Bone030(mirrored)
+        weight: 1
+      - path: Bip01/Bone001/Bone002/Bone029(mirrored)/Bone030(mirrored)/Bone031(mirrored)
+        weight: 1
+      - path: Bip01/Bone008
+        weight: 1
+      - path: Bip01/Bone008/Bone009
+        weight: 1
+      - path: Bip01/Bone008/Bone032
+        weight: 1
+      - path: Bip01/Bone008/Bone032(mirrored)
+        weight: 1
+      - path: F_QJY_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<Root>
+  <CurrentLogLevels>ALL</CurrentLogLevels>
+  <IsEnableProfilerHelper>0</IsEnableProfilerHelper>
+  <IsEnableLogHelper>0</IsEnableLogHelper>
+  <IsLogInEditor>1</IsLogInEditor>
+  <CurrentLogExpand>STACK</CurrentLogExpand>
+  <MaxFileSize>10</MaxFileSize>
+</Root>

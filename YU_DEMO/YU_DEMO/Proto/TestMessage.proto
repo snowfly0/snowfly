@@ -1,0 +1,5 @@
+message TestMessage {
+required int32 Int32=1;
+required fixed32 Single=2;
+optional string Messages=3;
+}
